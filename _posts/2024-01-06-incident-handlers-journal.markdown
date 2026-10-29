@@ -1,13 +1,9 @@
 ---
 layout: default
 modal-id: 5
-title: Incident Handlers Journal
+title: Incident Handler's Journal
 img: handlersjournal.png
-alt: image-alt
-
-# Add the link to your journal below
-project-url:https://docs.google.com/document/d/1GgDjotL8T5vHi10c5hWBa6RdPhERODSFhraZNKwyAsI/edit?usp=sharing:
-
-# Once you've completed your project, update the 'description' below to this one: Provided clear and concise written documentation of cybersecurity events, including detailed event descriptions, tools used, and lessons learned throughout the process.
-description: Provided clear and concise written documentation of cybersecurity events, including detailed event descriptions, tools used, and lessons learned throughout the process.
+alt: Incident response documentation
+project-url: https://docs.google.com/document/d/1GgDjotL8T5vHi10c5hWBa6RdPhERODSFhraZNKwyAsI/edit
+description: Documented a simulated healthcare ransomware incident, including the five Ws, business impact, phishing entry point, and prevention takeaways.
 ---
