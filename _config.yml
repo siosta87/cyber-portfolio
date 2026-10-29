@@ -1,1 +1,49 @@
+# Site settings
+title: Siobhan Stack
+url: https://siosta87.github.io/cyber-portfolio
+description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
+keywords: "cybersecurity, cyber, security, portfolio, tech"
+skills: "Cybersecurity - Analyst - Ethical Hacker"
+meta_author: Siobhan Stack
+google_verify:
+bing_verify:
+contact: static
+disqus_shortname:
 
+# Color settings
+color:
+  primary: d88180
+  primary-rgb: "45,215,185"
+  secondary: 48597a
+  secondary-dark: "001846"
+
+# Footer settings
+footer:
+  copyright: Siobhan Stack
+  location: Arverne, New York
+  social: Around the Web
+  credits: Credits
+
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/siobhan-stack/
+  - title: github
+    url: https://github.com/siosta87/
+
+email:
+  email-url: mailto:siobhan.stack0@gmail.com
+
+location:
+  - line: Arverne, NY
+
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>. Cyber icons created by <a href="https://www.flaticon.com/free-icons/cyber-attack" title="cyber attack icons">Freepik - Flaticon</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
