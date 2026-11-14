@@ -3,11 +3,8 @@ layout: default
 modal-id: 3
 title: SQL Query
 img: sql.png
-alt: image-alt
-
-# Reminder: Update this link with your own project link
-project-url: 
-
-# Once you've completed your project, update the 'description' below to this one: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
-description: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
+alt: SQL query work sample
+project-url:
+description: >-
+  I used SQL to investigate login activity and identify employee machines by department and office. I filtered for failed after-hours logins, activity on specific dates, and login records outside a specified country. I used AND, OR, NOT, and LIKE to narrow or broaden the results.
 ---
